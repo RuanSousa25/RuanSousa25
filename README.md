@@ -1,4 +1,5 @@
-Novo aqui? Pois tome uma água...
-<p>(só não vá beber tudo)</p>
+Novo aqui? Pois não se acanhe e tome uma água...
+<p>(Pode ficar tranquilo que o roberto não morde!)</p>
 
-![tome agua](https://github.com/RuanSousa25/RuanSousa25/assets/103215747/fbcfa840-04df-4daf-ad19-e4564a3134e4)
+
+![aguaagua](https://github.com/RuanSousa25/RuanSousa25/assets/103215747/10461d90-0c53-4a79-9cb4-8c0d12a2c7f7)
